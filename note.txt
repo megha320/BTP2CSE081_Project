@@ -1,4 +1,0 @@
-Hi!
-My Name is Megha.
-How are you ?
-I am learning Python.
